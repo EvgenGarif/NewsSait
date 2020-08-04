@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Article>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <div class="container">
+        <br />
+        <form method="post">
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10 col-lg-8">
+                    <form class="card card-sm">
+                        <div class="card-body row no-gutters align-items-center">
+                            <div class="col-auto">
+                                <i class="fas fa-search h4 text-body"></i>
+                            </div>
+                            <!--end of col-->
+                            <div class="col">
+                                <input class="form-control form-control-lg form-control-borderless" type="search" placeholder="Search topics or keywords" name="searchNews">
+                            </div>
+                            <!--end of col-->
+                            <div class="col-auto">
+                                <button class="btn btn-lg btn-success" type="submit" value="searchNews">Search</button>
+                            </div>
+                            <!--end of col-->
+                        </div>
+                    </form>
+                </div>
+                <!--end of col-->
+            </div>
+        </form>
+    </div>
+
+    <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Sort by
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+            <a class="dropdown-item" href="#" id="qw">Date ascending</a>
+            <a class="dropdown-item" href="#" id="qe">Date descending</a>
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <div class="card-deck">
+
+        <div class="card">
+
+            <div class="date-wrap">
+
+                @foreach (var article in Model)
+                {
+                    <div class="date" data-searsh="@article.publishedAt">
+                        <a href="@article.url">
+                            <img src="@article.urlToImage" class="card-img-top" alt="Image">
+                        </a>
+                        <div class="card-body">
+                            <h5 class="card-title">@article.title</h5>
+                            <p class="card-text">@article.description</p>
+                            <p class="card-text"><small class="text-muted">@article.publishedAt</small></p>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+

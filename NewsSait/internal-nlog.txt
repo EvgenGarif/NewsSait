@@ -1,0 +1,41 @@
+2020-08-04 23:31:55.8273 Info Message Template Auto Format enabled
+2020-08-04 23:31:55.8579 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 23:31:55.9362 Info Adding target FileTarget(Name=NewsSait-all)
+2020-08-04 23:31:55.9362 Info Adding target FileTarget(Name=NewsSait-app)
+2020-08-04 23:31:55.9820 Info Validating config: TargetNames=NewsSait-all, NewsSait-app, ConfigItems=44, FilePath=E:\codeC#\NewsSait\NewsSait\bin\Debug\netcoreapp3.1\NLog.config
+2020-08-04 23:31:56.0225 Info Configuration initialized.
+2020-08-04 23:31:56.0236 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-08-04 23:35:19.6381 Info Message Template Auto Format enabled
+2020-08-04 23:35:19.6778 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 23:35:19.7707 Info Adding target FileTarget(Name=NewsSait-all)
+2020-08-04 23:35:19.7736 Info Adding target FileTarget(Name=NewsSait-app)
+2020-08-04 23:35:19.8267 Info Validating config: TargetNames=NewsSait-all, NewsSait-app, ConfigItems=44, FilePath=E:\codeC#\NewsSait\NewsSait\bin\Release\netcoreapp3.1\NLog.config
+2020-08-04 23:35:19.8635 Info Configuration initialized.
+2020-08-04 23:35:19.8635 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-08-04 23:38:23.8618 Info Message Template Auto Format enabled
+2020-08-04 23:38:23.8790 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 23:38:23.9513 Info Adding target FileTarget(Name=NewsSait-all)
+2020-08-04 23:38:23.9513 Info Adding target FileTarget(Name=NewsSait-app)
+2020-08-04 23:38:23.9910 Info Validating config: TargetNames=NewsSait-all, NewsSait-app, ConfigItems=44, FilePath=E:\codeC#\NewsSait\NewsSait\bin\Debug\netcoreapp3.1\NLog.config
+2020-08-04 23:38:24.0168 Info Configuration initialized.
+2020-08-04 23:38:24.0168 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-08-04 23:38:24.2300 Info AppDomain Shutting down. Logger closing...
+2020-08-04 23:38:24.2511 Info Logger has been shut down.
+2020-08-04 23:39:41.7085 Info Message Template Auto Format enabled
+2020-08-04 23:39:41.7871 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-04 23:39:41.8627 Info Adding target FileTarget(Name=NewsSait-all)
+2020-08-04 23:39:41.8627 Info Adding target FileTarget(Name=NewsSait-app)
+2020-08-04 23:39:41.9056 Info Validating config: TargetNames=NewsSait-all, NewsSait-app, ConfigItems=44, FilePath=E:\codeC#\NewsSait\NewsSait\bin\Debug\netcoreapp3.1\NLog.config
+2020-08-04 23:39:41.9508 Info Configuration initialized.
+2020-08-04 23:39:41.9508 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-08-04 23:39:44.0235 Info AppDomain Shutting down. Logger closing...
+2020-08-04 23:39:44.0436 Info Logger has been shut down.
+2020-08-05 00:12:34.0453 Info Message Template Auto Format enabled
+2020-08-05 00:12:34.0848 Info Loading assembly: NLog.Web.AspNetCore
+2020-08-05 00:12:34.1733 Info Adding target FileTarget(Name=NewsSait-all)
+2020-08-05 00:12:34.1733 Info Adding target FileTarget(Name=NewsSait-app)
+2020-08-05 00:12:34.2180 Info Validating config: TargetNames=NewsSait-all, NewsSait-app, ConfigItems=44, FilePath=E:\codeC#\NewsSait\NewsSait\bin\Debug\netcoreapp3.1\NLog.config
+2020-08-05 00:12:34.2637 Info Configuration initialized.
+2020-08-05 00:12:34.2637 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.2.11786. Product version: 4.7.2+024896f64b840a743d3fd89e29c2186681e7795f. GlobalAssemblyCache: False
+2020-08-05 00:12:34.6062 Info AppDomain Shutting down. Logger closing...
+2020-08-05 00:12:34.6313 Info Logger has been shut down.
